@@ -1,3 +1,12 @@
+#nav-bar
+{
+    background-color: #feeae9;
+}
+
+.color-panda
+{
+    background-color: #feeae9;
+}
 .navbar-nav
 {
     margin-left: 100px;
@@ -6,4 +15,10 @@
 .nav-link
 {
     margin-left: 30px;
+}
+#subscribe
+{
+    height: 300px;
+    width: 800px;
+    background-color: #feeae9;
 }
